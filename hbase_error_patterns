@@ -1,0 +1,78 @@
+JvmPauseMonitor
+responseTooSlow
+WARN
+DEBUG
+ERROR
+FATAL
+dropdown
+DROPPED LINE
+output error
+operation latency
+Got a command from standby NN
+Invalid signature
+bad datanode
+java.util.concurrent
+FSTableDescriptors
+KeeperErrorCode
+Connection refused
+Failed to connect
+Failed to report bad block
+standby error
+Connection reset by peer
+client.QuorumJournalManager
+attempt to override final parameter
+Operation category READ is not supported in state standby
+Meta Data may have issues
+Failed to delete file or dir
+A failover has occurred since the start of this method invocation attempt
+Couldn't find application
+Renewal request for unknown token
+closed socket connection
+closing socket connection
+RECEIVED SIGNAL 15: SIGTERM
+log4j:WARN
+Increasing replication
+Added node
+Removed node
+No TokenRenewer defined
+slow start threshold reached
+master.ReplicationLogCleaner
+Slow sync cost
+Data may be lost in the event of a crash
+Shutting down
+Terminating master
+SHUTDOWN_MSG
+Java HotSpot(TM)
+abort preclean due to time
+unknown error
+Login failure
+no length prefix available
+checkDiskError
+invalid version format
+Error Recovery for block
+checksum error
+TIMED_WAITING
+Established session
+Already tried
+ABORTING
+Aborting procedure member for znode
+hdfs.DFSClient
+Bad connect ack with firstBadLink
+Error Recovery
+hdfs.BlockReaderFactory
+Couldn't read snapshot
+OrgId is null in the log line
+ERROR IN CONTACTING RM
+BLOCK* addToInvalidates
+BLOCK* addStoredBlock
+SERVICE_NOT_RESPONDING
+Unable to gracefully make NameNode
+Unable to trigger a roll of the active NN
+Adding moved region record
+Retrying connect
+Temporary failure in name resolution
+lease expired
+cleanup of failed split
+Still waiting for master to process the pending_split
+unknown version info
+Aborting compaction

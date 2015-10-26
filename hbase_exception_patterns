@@ -1,0 +1,33 @@
+RegionTooBusyException
+RetriesExhaustedException
+RetriesExhaustedWithDetailsException
+caught end of stream exception
+IOException in offerService
+Exception in doCheckpoint
+java.io.IOException
+java.lang.NullPointerException
+java.net.UnknownHostException
+javax.security.sasl.SaslException
+java.lang.IllegalArgumentException
+java.net.NoRouteToHostException
+java.net.ConnectException
+java.lang.InterruptedException
+InstanceNotFoundException
+java.io.EOFException
+SaslException
+FileNotFoundException
+ReplicaAlreadyExistsException
+TableInfoMissingException
+NullPointerException
+TimeoutExceptionInjector
+SocketTimeoutException
+InvalidProtocolBufferException
+CorruptedSnapshotException
+RemoteException
+EndOfStreamException
+KeeperException
+ArrayIndexOutOfBoundsException
+Exception encountered while running the renewal command
+YarnUncaughtExceptionHandler
+Exception transfering block
+RuntimeException
